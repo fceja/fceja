@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Francisco. 🇲🇽🇺🇸 </br>
-I have a background in QA / Automation, and develop software almost daily. </br>
+I have a background in QA / Automation, and enjoy developing software. </br>
 I currently reside in California, United States.
 </br>
 </br>

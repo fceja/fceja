@@ -188,6 +188,15 @@ I currently reside in California, United States.
     />
   </a>
   
+  <a href="https://nodemailer.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://nodemailer.com/favicon-96x96.png"
+      alt="nodemailer"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"

@@ -151,6 +151,15 @@ I currently reside in California, United States.
       alt="graphql"
     />
   </a>
+
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://jwt.io/img/favicon/apple-icon-72x72.png"
+      width="40"
+      height="40"
+      alt="jsonwebtoken"
+    />
+  </a>
   
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img

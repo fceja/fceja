@@ -88,7 +88,14 @@ I currently reside in California, United States.
       height="40"
     />
   </a>
-  
+  <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"">
+    <img
+      src="https://developers.google.com/static/maps/images/maps-icon.svg"
+      alt="googlemaps"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.djangoproject.com/favicon.ico"

@@ -1,7 +1,8 @@
 ## Hello there, 👋
-I'm Francisco. 🇲🇽🇺🇸
+I'm Francisco. 
+🇲🇽🇺🇸
 </br>
-I have a background in QA / Automation, and develop apps on my spare time. </br>
+I have a background in QA and Automation, and also enjoy developing apps. </br>
 I currently reside in California, United States.
 </br>
 </br>

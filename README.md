@@ -2,12 +2,10 @@
 I'm Francisco. 
 </br>
 🇺🇸🇲🇽
-</br>
-I have a background in QA, Automation, and also enjoy developing apps.
-</br>
 
-From California, United States.
+
 </br>
+Currently residing in California, U.S.
 </br>
 
 ## Technologies & Tools:

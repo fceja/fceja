@@ -146,6 +146,13 @@ Currently residing in California, U.S.
       width="40"
       height="40"
     /></a>
+  <a href="https://knexjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knexjs/knexjs-original.svg"
+      alt="knexjs"
+      width="40"
+      height="40"
+    /></a>
   <a href="https://nodemailer.com/" target="_blank" rel="noreferrer">
     <img
       src="https://nodemailer.com/favicon-96x96.png"

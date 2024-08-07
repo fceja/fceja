@@ -1,7 +1,6 @@
 ## Hello there, 👋
 
 <h3>I'm Francisco. </br> 🇺🇸🇲🇽 </h3>
-<h4>Currently residing in California, U.S.</h4>
 
 </br>
 
